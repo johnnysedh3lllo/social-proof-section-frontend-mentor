@@ -24,9 +24,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor]()
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/mobile-first-responsive-social-proof-section-made-with-css-grid-and-flex-YtUPf3_r_N)
 
-- Live Site URL: [GitHub]()
+- Live Site URL: [GitHub](https://johnnysedh3lllo.github.io/social-proof-section-frontend-mentor/)
 
 
 ## My process
