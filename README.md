@@ -43,8 +43,7 @@ Users should be able to:
 this challenge demanded an extensive use of CSS Grid which gave way to more understanding of the behaviour of CSS Grid in different layout settings.
 
 ### Continued development
-in other projects i will focus more on building websites with responsive layouts.
-
+in regard to my future plans for development, at this time i am still in the process of truly understanding how to make responsive layouts with CSS. all this time I've been most building components but from now i will be building more full page sites to really understand how to make responsive layouts in multiple cases.
 ### Author
 - GitHub - [johnnysedh3lllo](https://github.com/johnnysedh3lllo)
 
